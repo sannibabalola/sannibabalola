@@ -31,4 +31,4 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 -Contribute to open source
 -Teach Python to more young learners
 
-Thanks for 
+Thanks for visiting! I’m excited to share my journey with you — let’s connect and grow together! 
