@@ -18,6 +18,10 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 - **Email** : Babalolasanni2016@gmail.com
 - **Portfolio**: Coming soon
   
-## Currently Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white))
-- ** 
+## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Currently Learning
+- Core Python Concept (data types, functions, classes)
+- OOP Concepts
+- Git and GitHub basics
+- Solving algorithm problems (LeetCode, HackerRank)
+- Building small Python projects
+
