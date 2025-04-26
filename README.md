@@ -8,3 +8,8 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 
 * 🌍  I'm based in Lagos
 * 🧠  I'm learning Flask for Python web apps, Git & GitHub for collaboration , Building REST APIs
+
+##Tech Stack
+**Languages** : Python, HTML, CSS, JavaScript(Beginner)
+**Tools and Libraries** : pandas, requests, tkinter, BeautifulSoup, Git
+**Areas of Interest** : Automation, Web Scraping, Data Handling, Backend Development
