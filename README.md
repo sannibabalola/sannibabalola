@@ -15,5 +15,9 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 - **Areas of Interest** : Automation, Web Scraping, Data Handling, Backend Development
 
 ## Let's Connect
-- ** Email** : Babalolasanni2016@gmail.com
-- ** Portfolio**: Coming soon
+- **Email** : Babalolasanni2016@gmail.com
+- **Portfolio**: Coming soon
+  
+## Currently Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white))
+- ** 
