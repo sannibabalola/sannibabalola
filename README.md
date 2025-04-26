@@ -14,8 +14,8 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 - **Tools and Libraries** : pandas, requests, tkinter, BeautifulSoup, Git
 - **Areas of Interest** : Automation, Web Scraping, Data Handling, Backend Development
 
-## Let's Connect
-- **Email** : Babalolasanni2016@gmail.com
+## 🤝 Let's Connect
+- **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
 - **Portfolio**: Coming soon
   
 ## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Currently Learning
@@ -25,4 +25,10 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 - Git and GitHub basics
 - Solving algorithm problems (LeetCode, HackerRank)
 - Building small Python projects
+  
+## 🎯 Goals
+-Land my first remote Python job
+-Contribute to open source
+-Teach Python to more young learners
 
+Thanks for 
