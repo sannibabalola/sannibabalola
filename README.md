@@ -11,8 +11,8 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 
 ## 🛠️ Tech Stack
 - **Languages** : Python, HTML, CSS, JavaScript(Beginner)
-- **Tools and Libraries** : pandas, requests, tkinter, BeautifulSoup, Git
-- **Areas of Interest** : Automation, Web Scraping, Data Handling, Backend Development
+- **Tools and Libraries** : Git
+- **Areas of Interest** : Starting to explore Automation, Web Scraping, Data Handling, Backend Development
 
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
@@ -27,8 +27,8 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 - Building small Python projects
   
 ## 🎯 Goals
--Land my first remote Python job
--Contribute to open source
--Teach Python to more young learners
+- Land my first remote Python job
+- Contribute to open source
+- Teach Python to more young learners
 
 Thanks for visiting! I’m excited to share my journey with you — let’s connect and grow together! 
