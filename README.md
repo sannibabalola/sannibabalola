@@ -13,3 +13,7 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 - **Languages** : Python, HTML, CSS, JavaScript(Beginner)
 - **Tools and Libraries** : pandas, requests, tkinter, BeautifulSoup, Git
 - **Areas of Interest** : Automation, Web Scraping, Data Handling, Backend Development
+
+## Let's Connect
+- ** Email** : Babalolasanni2016@gmail.com
+- ** Portfolio**: Coming soon
