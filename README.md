@@ -16,7 +16,7 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
-- **Portfolio**: Coming soon
+- **Portfolio**:   [Calculator project](https://github.com/sannibabalola/calculator_project)
   
 ## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Currently Learning
 - Core Python Concept (variables, data types, loops, functions, classes, error handling)
