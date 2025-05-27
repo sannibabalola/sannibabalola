@@ -21,13 +21,13 @@ Here are some of my recent projects showcasing my skills:
 - **[Simple Calculator](https://github.com/sannibabalola/simple-calculator)**  
   A Python-based calculator with a simple user interface for basic arithmetic operations. Built with `Tkinter`.  
 
-- **[TODO List](https://github.com/sannibabalola/another-project)**  
-  (Replace with a short description of another project)  
+- **[TODO List](https://github.com/sannibabalola/command-line-todo-list)**  
+  A simple, colorful command-line to-do list application built with Python. 
 
 
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
-- **GitHub**:   [!GitHub](https://github.com/sannibabalola)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sannibabalola)
   
 ## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Currently Learning
 - Core Python Concept (variables, data types, loops, functions, classes, error handling)
