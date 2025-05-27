@@ -14,9 +14,20 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 - **Tools and Libraries** : Git, tkinter.
 - **Areas of Interest** : Starting to explore Automation, Web Scraping, Data Handling, Backend Development
 
+## 🌟 Portfolio / Highlighted Projects
+
+Here are some of my recent projects showcasing my skills:
+
+- **[Simple Calculator](https://github.com/sannibabalola/simple-calculator)**  
+  A Python-based calculator with a simple user interface for basic arithmetic operations. Built with `Tkinter`.  
+
+- **[TODO List](https://github.com/sannibabalola/another-project)**  
+  (Replace with a short description of another project)  
+
+
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
-- **Portfolio**:   [Simple Calculator project](https://github.com/sannibabalola/calculator_project)
+- **GitHub**:   [!GitHub](https://github.com/sannibabalola)
   
 ## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Currently Learning
 - Core Python Concept (variables, data types, loops, functions, classes, error handling)
