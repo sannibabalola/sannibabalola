@@ -11,7 +11,7 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 
 ## 🛠️ Tech Stack
 - **Languages** : Python, HTML, CSS, JavaScript(Beginner)
-- **Tools and Libraries** : Git, tkinter.
+- **Tools and Libraries** :Python(Core Python, OOP),Tkinter(For building GUI applications), Git & GitHub (Version control and collaboration)
 - **Areas of Interest** : Starting to explore Automation, Web Scraping, Data Handling, Backend Development
 
 ## 🌟 Portfolio / Highlighted Projects
