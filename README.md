@@ -25,8 +25,7 @@ Here are some of my recent projects showcasing my skills:
   A simple, colorful command-line to-do list application built with Python. 
 
 - **[Phone Number Extractor](https://github.com/sannibabalola/nigeria-gsm-number-extractor)**  
-  A simple, colorful command-line to-do list application built with Python. 
-
+ This Python script extracts Nigerian phone numbers from copied text using regular expressions and the pyperclip module.
 
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
