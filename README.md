@@ -24,6 +24,9 @@ Here are some of my recent projects showcasing my skills:
 - **[TODO List](https://github.com/sannibabalola/command-line-todo-list)**  
   A simple, colorful command-line to-do list application built with Python. 
 
+- **[Phone Number Extractor](https://github.com/sannibabalola/nigeria-gsm-number-extractor)**  
+  A simple, colorful command-line to-do list application built with Python. 
+
 
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
