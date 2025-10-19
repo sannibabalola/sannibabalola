@@ -11,7 +11,7 @@ I'm a passionate programmer and tech educator from Nigeria. I help students lear
 
 ## 🛠️ Tech Stack
 - **Languages** : Python, HTML, CSS, JavaScript(Beginner)
-- **Tools and Libraries** :Python(Core Python, OOP),Tkinter(For building GUI applications), Git & GitHub (Version control and collaboration)
+- **Tools and Libraries** :Python (Core Python, OOP), Pandas (Data cleaning & automation), Tkinter (GUI apps), Git & GitHub (Version control & collaboration)
 - **Areas of Interest** : Starting to explore Automation, Web Scraping, Data Handling, Backend Development
 
 ## 🌟 Portfolio / Highlighted Projects
@@ -28,7 +28,7 @@ Here are some of my recent projects showcasing my skills:
  This Python script extracts Nigerian phone numbers from copied text using regular expressions and the pyperclip module.
 
 - **[Python Automation Scripts](https://github.com/sannibabalola/python-automation-scripts)**
- Simple Python automation scripts for cleaning and organizing CSV/Excel data.
+  Simple Python automation scripts for cleaning and organizing CSV/Excel data.
 
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
