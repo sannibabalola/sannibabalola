@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanni Babalola
 ======================================================================================================================================
 
-Python Developer | ICT Instructor | Lifelong Learner
-----------------------------------------------------
+Python Developer | ICT Instructor | Lifelong Learner | Domain Branding Consultant
+---------------------------------------------------------------------------------
 
 I'm a passionate programmer and tech educator from Nigeria. I help students learn the power of technology while building real-world Python projects myself. My goal is to master Python and use it to solve practical problems, automate tasks, and contribute to meaningful open-source projects.
 
@@ -26,6 +26,9 @@ Here are some of my recent projects showcasing my skills:
 
 - **[Phone Number Extractor](https://github.com/sannibabalola/nigeria-gsm-number-extractor)**  
  This Python script extracts Nigerian phone numbers from copied text using regular expressions and the pyperclip module.
+
+- **[Python Automation Scripts](https://github.com/sannibabalola/python-automation-scripts)**
+ Simple Python automation scripts for cleaning and organizing CSV/Excel data.
 
 ## 🤝 Let's Connect
 - **Email** : [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Babalolasanni2016@gmail.com)
