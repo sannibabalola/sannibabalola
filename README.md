@@ -27,7 +27,7 @@ Here are some of my recent projects showcasing my skills:
 - **[Phone Number Extractor](https://github.com/sannibabalola/nigeria-gsm-number-extractor)**  
  This Python script extracts Nigerian phone numbers from copied text using regular expressions and the pyperclip module.
 
-- **[Python Automation Scripts](https://github.com/sannibabalola/python-automation-scripts)**
+- **[Python Automation Scripts](https://github.com/sannibabalola/python-automation-scripts)**  
   Simple Python automation scripts for cleaning and organizing CSV/Excel data.
 
 ## 🤝 Let's Connect
